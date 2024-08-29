@@ -1,0 +1,13 @@
+button.me{
+    font-size: 24px;
+    font-family:Helvetica,'Times New Roman',sans-serif;
+           
+ 
+}
+button.sim{
+    background-color: black;
+    color: white;
+}
+button.nao{
+    background-color: yellow;
+}
